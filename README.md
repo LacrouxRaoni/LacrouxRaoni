@@ -1,7 +1,7 @@
 ### Hello world! I'm Raoni! 👋
 
 - 👨‍🚀 I'm a cadet at 42 School
-- 🥼 I'm an integrant in the Labs project as a full stack developer
+- 🥼 I'm an ex-integrant in the Labs project as a full stack developer
 - 💻 Technologies I'm using:
 <div align="center">
   <img align="center" alt="Raoni-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
